@@ -1,0 +1,14 @@
+
+.carousel-inner img{
+    height: 580px;
+}
+
+@media screen and (max-width: 1024px) {
+    .carousel-inner img{
+        height: 200px;
+    }
+}
+
+.carosel-content{
+    height: 10px;
+}
